@@ -312,4 +312,5 @@ footer ul li
     text-decoration: none;
     color: black ;
     padding: 20px 75px;
+	display: inline-block;
 }
