@@ -303,14 +303,11 @@ footer
     background-color: white;
     font-size: 24px;
     color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 footer ul li 
 {
     text-decoration: none;
     color: black ;
+    display: inline-block;
     padding: 20px 75px;
-	display: inline-block;
 }
